@@ -5,6 +5,7 @@ $('.view:not(#welcome)').hide();
   function showView(viewName) {
     $('.view').hide();
 	$('#' + viewName).show();
+	$(window).scrollTop(0);
   }
   $('[data-launch-view]').click(function (e) {
 	 e.preventDefault();
