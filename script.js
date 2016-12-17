@@ -1,3 +1,4 @@
+$('.view').hide();
 $('#welcome').show();
 
 $(document).ready(function(e) {
