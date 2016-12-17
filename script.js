@@ -1,8 +1,7 @@
 
-$('.view').hide();
-$('#welcome').show();
-
 $(document).ready(function(e) {
+$('.view:not(#welcome)').hide();
+/*$('#welcome').show();	*/
   function showView(viewName) {
     $('.view').hide();
 	$('#' + viewName).show();
