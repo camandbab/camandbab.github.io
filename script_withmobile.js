@@ -7,7 +7,7 @@ $(document).ready(function(e) {
 
 	if (screen.width <= 699) {
 	/*mobile page */
-		document.location = "mobile_hamburger.html";
+		document.location = "m.html";
 	}
 	else {
 	/*desktop page */
