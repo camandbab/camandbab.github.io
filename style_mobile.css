@@ -17,10 +17,10 @@ header{
 }
 .hamburger{
   background:none;
-  position:absolute;
+/*  position:absolute;*/
   top:0;
   line-height:45px;
-  padding:5px 15px 0px 15px;
+  /*padding:5px 15px 0px 15px;*/
   color:grey;
   border:none;
   font-size: 16px;
