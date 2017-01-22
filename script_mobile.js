@@ -1,6 +1,6 @@
 $(document).ready(function(e) {  
 	$('.view:not(#welcome)').hide();
-	$( ".cross" ).hide();
+	/*$( ".cross" ).hide();*/
 	$( ".menu" ).hide();
   /*$('#welcome').show();	*/
   function showView(viewName) {
@@ -15,11 +15,9 @@ $(document).ready(function(e) {
 	showView(viewName);	
 	
 	$( ".menu" ).hide();
-	$( ".cross" ).hide();
+/*	$( ".cross" ).hide();*/
 	$( ".hamburger" ).show();
 /* 	$( ".menu" ).slideToggle( "slow", function() {
-		$(".cross").text("soup");
-		$(".hamburger").text("vegetable");
 		$( ".cross" ).hide();
 		$( ".hamburger" ).show();
 	}); */
@@ -44,8 +42,6 @@ $( ".hamburger" ).click(function() {
 	$( ".hamburger" ).hide();
 	$( ".cross" ).show();
 	}); */
-
-	//$(".dropbtn").text("soup");
 	$('#content').css('min-height', $(window).height());
 	//set the width of primary content container -> content should not scale while animating
 	var contentWidth = $('#content').width();
@@ -67,11 +63,9 @@ $( ".hamburger" ).click(function() {
 //close the menu
 $( "#contentLayer" ).click(function() {
 	$( ".menu" ).hide();
-	$( ".cross" ).hide();
+/*	$( ".cross" ).hide();*/
 	$( ".hamburger" ).show();
 /* 	$( ".menu" ).slideToggle( "slow", function() {
-		$(".cross").text("soup");
-		$(".hamburger").text("vegetable");
 		$( ".cross" ).hide();
 		$( ".hamburger" ).show();
 	}); */
@@ -85,8 +79,8 @@ $( "#contentLayer" ).click(function() {
 	$(".cross").click(function (e) {
 	 e.preventDefault();
 	$("#welcome").show();
-	$('.view:not(#welcome)').hide();	
-	//$(".navText").text("salad");
+	$('.view:not(#welcome)').hide();
+	$( ".menu" ).hide();
   });  
   
 });

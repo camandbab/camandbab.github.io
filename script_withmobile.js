@@ -8,9 +8,9 @@ $(document).ready(function(e) {
 	if (screen.width <= 699) {
 	/*mobile page */
 		document.location = "m.html";
-	$('.view:not(#welcome)').hide();
-	$( ".cross" ).hide();
-	$( ".menu" ).hide();
+		$('.view:not(#welcome)').hide();
+		$( ".cross" ).hide();
+		$( ".menu" ).hide();
 	}
 	else {
 	/*desktop page */
