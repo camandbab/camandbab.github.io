@@ -15,16 +15,7 @@ header{
 	font-size: 16px;
 	border: none;
 }
-.navmenu {
-	line-height:2.5em;
-	text-decoration: none;
-}
-.floatLeft {
-  float: left;
-}
-.floatRight { 
-  float: right;
-}
+
 .hamburger{
   background:none;
   position:absolute;
