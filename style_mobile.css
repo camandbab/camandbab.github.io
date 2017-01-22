@@ -23,7 +23,7 @@ header{
 }
 .hamburger{
   background:none;
-/*  position:absolute;*/
+  position:absolute;
   top:0;
   line-height:45px;
   /*padding:5px 15px 0px 15px;*/
@@ -34,7 +34,6 @@ header{
   cursor:pointer;
   outline:none;
   z-index:10000000000000;
-  float: left;
 }
 .cross{
   background:none;
