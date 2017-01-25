@@ -142,6 +142,13 @@
   
 }
 
+.lodgingparallax {
+	border: 5px solid white;
+	/* the image used */
+	background-image: url("marriott_exterior.jpg");
+	min-height: 500px;
+}
+
 .reception-text {
   background-color: white;
   height: 420px;
