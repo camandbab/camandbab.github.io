@@ -69,6 +69,10 @@ header{
 using background color is important to cover the menu
 position absolute isset to cover the whole viewport
 */
+#container {
+	font-size: 16px;
+	line-height:1.2;
+}
 #content {
 	background-color: #FFFFFF;
 	padding: 52px 10px 10px 10px;
@@ -124,7 +128,16 @@ so that the content is unclickable while menu is shown
 
 .i1 {
   color: #4b4c4f;
-  font-size: 80;
+  font-size: 300%;
+  line-height:1.2;
+}
+.htwo {
+  font-size: 250%;
+  line-height:1.2;
+}
+.hfour {
+  font-size: 200%;
+  line-height:1.2;
 }
 
 .welcomeparallax {
@@ -172,8 +185,8 @@ so that the content is unclickable while menu is shown
 
 .receptionparallax {
 	/* The image used */
-	background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");
-
+/*	background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
+	background-image: url("prattst1.jpg");
 	/* Set a specific height */
 	min-height: 500px; 
 
@@ -193,5 +206,14 @@ so that the content is unclickable while menu is shown
   }
 
 .registrytbl {
+	text-decoration: none;	
+	list-style-type: none;
+	}
+.lodging-tbl {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.lodging-tbl li:hover {
 	text-decoration: none;
 }
