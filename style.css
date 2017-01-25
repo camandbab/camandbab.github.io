@@ -128,8 +128,8 @@
 .receptionparallax {
 	border: 5px solid white;
     /* The image used */
-    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");
-
+/*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
+	background-image: url("prattst1.jpg");
     /* Set a specific height */
     min-height: 500px; 
 
@@ -169,7 +169,7 @@
 	}
 .lodging-tbl {
 	text-decoration: none;
-	list-style-type: none;
+	list-style-type: non	e;
 }
 
 .lodging-tbl li:hover {
