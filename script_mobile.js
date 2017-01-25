@@ -81,6 +81,8 @@ $( "#contentLayer" ).click(function() {
 	$("#welcome").show();
 	$('.view:not(#welcome)').hide();
 	$( ".menu" ).hide();
+	$(".cross").hide();
+	$(".hamburger").show();
   });  
   
 });

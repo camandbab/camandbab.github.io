@@ -92,7 +92,6 @@ so that the content is unclickable while menu is shown
 	z-index: 5;
 }
 
-
 /* Show the dropdown menu on hover */
 /*.dropdown:hover .dropdown-content {
 	display: inline-block;
@@ -124,7 +123,8 @@ so that the content is unclickable while menu is shown
 }
 
 .i1 {
-  color: black;
+  color: #4b4c4f;
+  font-size: 80;
 }
 
 .welcomeparallax {
@@ -145,10 +145,11 @@ so that the content is unclickable while menu is shown
   background-color: white;
   height: 400px;
   margin-top: 100px;
-
+  text-decoration: none;
 }
-
-
+.tweet:hover {
+	text-decoration: none;
+}
 .ceremonyparallax {
 	background-image: url("http://vophotographers.com/wp-content/uploads/2016/05/riverview-simsbury-wedding-ajr-0041.jpg");
 	/* Set a specific height */
@@ -190,3 +191,7 @@ so that the content is unclickable while menu is shown
   margin-top: 100px;
   text-align: center;
   }
+
+.registrytbl {
+	text-decoration: none;
+}

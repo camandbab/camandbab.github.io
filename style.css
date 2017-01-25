@@ -163,11 +163,15 @@
   text-align: center;
 }
 
+.registrytbl {
+	text-decoration: none;	
+	list-style-type: none;
+	}
 .lodging-tbl {
-    list-style: none;
+	text-decoration: none;
+	list-style-type: none;
 }
 
-.registrytbl {
-	list-style: none;
-  text-align: center;
+.lodging-tbl li:hover {
+	text-decoration: none;
 }
