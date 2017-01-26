@@ -167,7 +167,9 @@
   background-color: white;
   height: 350px;
   margin-top: 100px;
-  text-align: center;  
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 0px;
 }
   
 .accomodations-text {
@@ -176,6 +178,8 @@
   margin-top: 100px;
   margin-bottom: 120px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .registrytbl {
@@ -185,8 +189,8 @@
 .lodging-tbl {
 	text-decoration: none;
 	list-style-type: none;
-	margin-left: auto;
-	margin-right: auto;
+	margin-right: 20px;
+	margin-left: 0px;
 }
 
 .lodging-tbl li:hover {
