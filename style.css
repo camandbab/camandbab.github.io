@@ -147,7 +147,14 @@
 	/* the image used */
 	background-image: url("hartfordwater.jpg");
 	min-height: 500px;
-}
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: 0px 40px;
+    min-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+	}
 
 .reception-text {
   background-color: white;
