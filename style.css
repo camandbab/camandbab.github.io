@@ -185,6 +185,8 @@
 .lodging-tbl {
 	text-decoration: none;
 	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .lodging-tbl li:hover {
