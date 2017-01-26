@@ -82,7 +82,7 @@
 }
 
 .welcomeparallax {
-  border: 5px solid white;
+  border: 10px solid white;
     /* The image used */
     background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");
     /* Set a specific height */
@@ -105,7 +105,7 @@
 
 
 .ceremonyparallax {
-	border: 5px solid white;
+	border: 10px solid white;
 	background-image: url("http://vophotographers.com/wp-content/uploads/2016/05/riverview-simsbury-wedding-ajr-0041.jpg");
     /* Set a specific height */
     min-height: 500px; 
@@ -126,7 +126,7 @@
   }
 
 .receptionparallax {
-	border: 5px solid white;
+	border: 10px solid white;
     /* The image used */
 /*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
 	background-image: url("prattst2b.jpg");
@@ -143,7 +143,7 @@
 }
 
 .lodgingparallax {
-	border: 5px solid white;
+	border: 10px solid white;
 	/* the image used */
 	background-image: url("hartfordwater.jpg");
 	min-height: 500px;
