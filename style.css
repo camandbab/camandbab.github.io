@@ -168,8 +168,6 @@
   height: 350px;
   margin-top: 100px;
   text-align: center;
-  margin-right: 20px;
-  margin-left: 0px;
 }
   
 .accomodations-text {
@@ -185,6 +183,8 @@
 .registrytbl {
 	text-decoration: none;	
 	list-style-type: none;
+	margin-right: 20px;
+	margin-left: 0px;	
 	}
 .lodging-tbl {
 	text-decoration: none;
