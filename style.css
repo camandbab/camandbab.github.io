@@ -84,7 +84,7 @@
 .welcomeparallax {
   border: 10px solid white;
     /* The image used */
-    background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");
+    background-image: url("bam2.png");
     /* Set a specific height */
     min-height: 500px; 
 
@@ -106,7 +106,7 @@
 
 .ceremonyparallax {
 	border: 10px solid white;
-	background-image: url("http://vophotographers.com/wp-content/uploads/2016/05/riverview-simsbury-wedding-ajr-0041.jpg");
+	background-image: url("church2.jpg");
     /* Set a specific height */
     min-height: 500px; 
 
