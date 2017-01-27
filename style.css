@@ -2,6 +2,8 @@
 .dropbtn {
     width: 100%;
     text-align: center;
+	margin-left: auto;
+	margin-right: auto;
     background-color: white;
     color: black;
     padding: 16px;
