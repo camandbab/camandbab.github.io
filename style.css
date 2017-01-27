@@ -163,6 +163,8 @@
   height: 420px;
   margin-top: 110px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   }
 
 .registry-text {
