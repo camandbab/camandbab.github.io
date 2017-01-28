@@ -50,6 +50,9 @@ header{
 	left: 0px;
 	top: 0px;
 }
+.menumenu {
+	font-size:1.5em;
+}
 .menu ul {margin: 0; padding: 0; list-style-type: none; list-style-image: none;}
 .menu li {display: block;   padding:15px 0 15px 0; border-bottom:#1d1f20 1px solid;}
 .menu li:hover{display: block;    background:#181818; padding:15px 0 15px 0; border-bottom:#1d1f20 1px solid;}
