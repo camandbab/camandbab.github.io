@@ -1,6 +1,6 @@
 $(document).ready(function(e) {  
 	$('.view:not(#welcome)').hide();
-	$( ".cross" ).hide();
+/*	$( ".cross" ).hide();*/
 	$( ".menu" ).hide();
   /*$('#welcome').show();	*/
   function showView(viewName) {
@@ -15,7 +15,7 @@ $(document).ready(function(e) {
 	showView(viewName);	
 	
 	$( ".menu" ).hide();
-	$( ".cross" ).hide();
+/*	$( ".cross" ).hide();*/
 	$( ".hamburger" ).show();
 /* 	$( ".menu" ).slideToggle( "slow", function() {
 		$( ".cross" ).hide();
@@ -63,7 +63,7 @@ $( ".hamburger" ).click(function() {
 //close the menu
 $( "#contentLayer" ).click(function() {
 	$( ".menu" ).hide();
-	$( ".cross" ).hide();
+/*	$( ".cross" ).hide();*/
 	$( ".hamburger" ).show();
 /* 	$( ".menu" ).slideToggle( "slow", function() {
 		$( ".cross" ).hide();
@@ -81,7 +81,7 @@ $( "#contentLayer" ).click(function() {
 	$("#welcome").show();
 	$('.view:not(#welcome)').hide();
 	$( ".menu" ).hide();
-	$(".cross").hide();
+/*	$(".cross").hide();*/
 	$(".hamburger").show();
   });  
   
