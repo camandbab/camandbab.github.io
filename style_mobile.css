@@ -44,7 +44,8 @@ header{
   outline:none;
   z-index:10000000000000;
 }
-.menu{z-index:1000000;
+.menu{
+	z-index:1000000;
 	font-weight:bold;
 	font-size:1.2em;
 	width:70%;
@@ -57,7 +58,7 @@ header{
 	left: 0px;
 	top: 0px;
 }
-.menumenu {
+.mobilemenu {
 	font-size:2em;
 }
 .menu ul {margin: 0; padding: 0; list-style-type: none; list-style-image: none;}
