@@ -44,9 +44,16 @@ header{
   outline:none;
   z-index:10000000000000;
 }
-.menu{z-index:1000000; font-weight:bold; font-size:1.2em; width:70%;
+.menu{z-index:1000000;
+	font-weight:bold;
+	font-size:1.2em;
+	width:70%;
 	height:100%;
-	background:#131313;  position:fixed; text-align:center;
+	background:#edf0f4;
+	position:fixed;
+	text-align:center;
+	color: #464647;
+	/*#131313/*
 	left: 0px;
 	top: 0px;
 }
