@@ -145,7 +145,8 @@ so that the content is unclickable while menu is shown
 
 .welcomeparallax {
 	/* The image used */
-	background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");
+/*	background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");*/
+    background-image: url("bam2.png");
 	/* Set a specific height */
 	min-height: 500px; 
 
@@ -167,7 +168,8 @@ so that the content is unclickable while menu is shown
 	text-decoration: none;
 }
 .ceremonyparallax {
-	background-image: url("http://vophotographers.com/wp-content/uploads/2016/05/riverview-simsbury-wedding-ajr-0041.jpg");
+/*	background-image: url("http://vophotographers.com/wp-content/uploads/2016/05/riverview-simsbury-wedding-ajr-0041.jpg");*/
+	background-image: url("church1.jpg");
 	/* Set a specific height */
 	min-height: 500px; 
 
@@ -188,8 +190,8 @@ so that the content is unclickable while menu is shown
 
 .receptionparallax {
 	/* The image used */
-/*	background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
-	background-image: url("prattst1.jpg");
+/*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
+	background-image: url("prattst2b.jpg");
 	/* Set a specific height */
 	min-height: 500px; 
 
