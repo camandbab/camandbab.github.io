@@ -185,6 +185,11 @@
   margin-right: auto;
 }
 
+.hotellinks {
+  color: inherit;
+  text-decoration: none;
+}
+
 .registrytbl {
 	text-decoration: none;	
 	list-style-type: none;

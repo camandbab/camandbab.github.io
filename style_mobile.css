@@ -232,6 +232,11 @@ so that the content is unclickable while menu is shown
   margin-bottom: 120px;
   text-align: center;
 }
+
+.hotellinks {
+  color: inherit;
+  text-decoration: none;
+}
 	
 .reception-text {
   background-color: white;
