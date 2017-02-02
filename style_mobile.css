@@ -15,7 +15,7 @@ header{
    width: 100%;
    text-align: left;
 	background-color: white;
-	color: #464647;
+	color: #333333;
 	padding: 16px;
 	font-size: 2em;
 	border: none;
@@ -27,7 +27,7 @@ header{
   top:15px;
   line-height:45px;
   /*padding:5px 15px 0px 15px;*/
-  color:#464647;
+  color:#333333;
   border:none;
 /*  font-size: 2em;*/
   /*font-weight:bold;*/
@@ -41,7 +41,7 @@ header{
   top:15px;
   right:0;
   padding:5px 15px 0px 15px;
-  color:#464647;
+  color:#333333;
   border:0;
   /*font-size:16px;*/
   line-height:45px;
@@ -58,7 +58,8 @@ header{
 	background:#edf0f4;
 	position:fixed;
 	text-align:center;
-	color: #464647;
+	/*old dark grey color 464647*/
+	color: #333333;
 	/*#131313*/
 	left: 0px;
 	top: 0px;
@@ -68,11 +69,13 @@ header{
 }
 .mobileli {
     margin-top: 20px;
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
 }
 .menu ul {margin: 0; padding: 0; list-style-type: none; list-style-image: none;}
 .menu li {display: block;   padding:15px 0 15px 0;}
 .menu li:hover{display: block;    background:grey; padding:15px 0 15px 0; color:#edf0f4; }
-.menu ul li a { text-decoration:none;  margin: 0px; color: #464647;}
+.menu ul li a { text-decoration:none;  margin: 0px; color: #333333;}
 .menu ul li a:hover {  color: #edf0f4; text-decoration:none;}
 .menu a{text-decoration:none; color:#edf0f4;}
 .menu a:hover{text-decoration:none; color:#edf0f4;}
@@ -146,7 +149,7 @@ so that the content is unclickable while menu is shown
 }
 
 .i1 {
-  color: #464647;
+  color: #333333;
   /*#4b4c4f*/
   font-size: 300%;
   line-height:1.2;
