@@ -221,9 +221,10 @@ body {
 }
 
 .lodging-border {
+	padding-bottom: 20px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
-	border-width: thin;
+	border-width: .2px;
 }
 
 .gap {
