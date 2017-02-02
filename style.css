@@ -1,5 +1,9 @@
 /* arimo - google web font	https://fonts.google.com/ */
 /* Dropdown Button */
+body {
+	font-family: 'Maven Pro', sans-serif;
+	
+}
 .dropbtn {
     width: 100%;
     text-align: center;
@@ -63,7 +67,7 @@
 }*/
 .text-align-center {
   text-align: center;
-  font-family:Helvetica,Arial,sans-serif;
+  /*font-family:Helvetica,Arial,sans-serif;*/
 }
 
 /*Wedding Page CSS*/
