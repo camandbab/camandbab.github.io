@@ -7,6 +7,7 @@ background-color: white;
 }
 header{
    cursor: pointer;
+   top: 15px;
    width: 100%;
    text-align: left;
 	background-color: white;
@@ -19,7 +20,7 @@ header{
 .hamburger{
   background:none;
   position:absolute;
-  top:0;
+  top:15px;
   line-height:45px;
   /*padding:5px 15px 0px 15px;*/
   color:#464647;
@@ -33,7 +34,7 @@ header{
 .cross{
   background:none;
   position:fixed;
-  top:0px;
+  top:15px;
   right:0;
   padding:5px 15px 0px 15px;
   color:#464647;
