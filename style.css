@@ -223,4 +223,9 @@ body {
 .lodging-border {
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
+	border-width: thin;
+}
+
+.gap {
+	margin-top: 20px;
 }
