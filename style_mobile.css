@@ -184,6 +184,9 @@ so that the content is unclickable while menu is shown
   margin-top: 100px;
   text-decoration: none;
 }
+.tweet {
+	color: inherit;
+}
 .tweet:hover {
 	text-decoration: none;
 }
@@ -268,4 +271,9 @@ so that the content is unclickable while menu is shown
 
 .lodging-tbl li:hover {
 	text-decoration: none;
+}
+
+.lodging-border {
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
 }

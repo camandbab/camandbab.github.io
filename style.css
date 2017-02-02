@@ -70,6 +70,15 @@ body {
   /*font-family:Helvetica,Arial,sans-serif;*/
 }
 
+
+.tweet {
+	color: inherit;
+}
+
+.tweet:hover {
+	text-decoration: none;
+}
+
 /*Wedding Page CSS*/
 .image-ctr {
   text-align: center;
@@ -209,4 +218,9 @@ body {
 
 .lodging-tbl li:hover {
 	text-decoration: none;
+}
+
+.lodging-border {
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
 }
