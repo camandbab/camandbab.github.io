@@ -71,7 +71,7 @@ header{
     margin-top: 20px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
-	border-width: thin;
+	border-width: .2px;
 }
 .menu ul {margin: 0; padding: 0; list-style-type: none; list-style-image: none;}
 .menu li {display: block;   padding:15px 0 15px 0;}
@@ -278,7 +278,7 @@ so that the content is unclickable while menu is shown
 	padding-bottom: 20px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
-	border-width: thin;
+	border-width: .2px;
 }
 
 .gap {
