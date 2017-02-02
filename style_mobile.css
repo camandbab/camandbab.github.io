@@ -68,6 +68,7 @@ header{
 	font-size:2em;
 }
 .mobileli {
+	padding-bottom: 20px;
     margin-top: 20px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
@@ -275,12 +276,12 @@ so that the content is unclickable while menu is shown
 }
 
 .lodging-border {
-	padding-bottom: 20px;
+	padding-bottom: 40px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
 	border-width: .2px;
 }
 
 .gap {
-	margin-top: 20px;
+	margin-top: 40px;
 }
