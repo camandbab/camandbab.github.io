@@ -290,12 +290,12 @@ so that the content is unclickable while menu is shown
 }
 
 .lodging-border {
-	padding-bottom: 40px;
+	padding-bottom: 60px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
 	border-width: .2px;
 }
 
 .gap {
-	margin-top: 40px;
+	margin-top: 60px;
 }
