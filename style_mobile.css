@@ -55,7 +55,8 @@ header{
 	font-size:1.2em;
 	width:70%;
 	height:100%;
-	background:#edf0f4;
+/*	background:#edf0f4; */
+	background:#f9f9f9;
 	position:fixed;
 	text-align:center;
 	/*old dark grey color 464647*/
