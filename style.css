@@ -54,6 +54,7 @@ body {
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
   color: grey;
+  text-decoration: none;
 }
 
 /* Show the dropdown menu on hover */
