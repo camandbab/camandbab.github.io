@@ -155,8 +155,20 @@ body {
     background-position: 0px 40px;
     min-width: 100%;
     background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.registryparallax {
+	border: 10px solid white;
+	/* the image used */
+	background-image: url("library.jpg");
+	min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: 0px 40px;
+    min-width: 100%;
+    background-repeat: no-repeat;
     background-size: cover;
-  
 }
 
 .lodgingparallax {
