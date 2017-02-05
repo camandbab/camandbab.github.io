@@ -127,7 +127,7 @@ body {
 	border: 10px solid white;
 	background-image: url("church1.jpg");
     /* Set a specific height */
-    min-height: 525px; 
+    min-height: 550px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
