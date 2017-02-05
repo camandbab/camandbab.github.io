@@ -163,7 +163,7 @@ body {
 .registryparallax {
 	border: 10px solid white;
 	/* the image used */
-	background-image: url("library.jpg");
+	background-image: url("library2.jpg");
 	min-height: 600px;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
