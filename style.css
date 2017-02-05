@@ -127,7 +127,7 @@ body {
 	border: 10px solid white;
 	background-image: url("church1.jpg");
     /* Set a specific height */
-    min-height: 500px; 
+    min-height: 525px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -150,7 +150,7 @@ body {
 /*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
 	background-image: url("prattst2b.jpg");
     /* Set a specific height */
-    min-height: 500px; 
+    min-height: 550px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
