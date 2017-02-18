@@ -185,7 +185,10 @@ so that the content is unclickable while menu is shown
 /*	background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");*/
     background-image: url("bam2.png");
 	/* Set a specific height */
-	min-height: 500px; 
+	min-height: 500px;
+	max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */	
 
 	/* Create the parallax scrolling effect */
 	background-attachment: fixed;
@@ -212,6 +215,9 @@ so that the content is unclickable while menu is shown
 	background-image: url("church1.jpg");
 	/* Set a specific height */
 	min-height: 500px; 
+	max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */	
 
 	/* Create the parallax scrolling effect */
 	background-attachment: fixed;
@@ -248,6 +254,10 @@ so that the content is unclickable while menu is shown
 	/* the image used */
 	background-image: url("butts.jpg");
 	min-height: 500px;
+	max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */	
+
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
@@ -262,6 +272,10 @@ so that the content is unclickable while menu is shown
 	/* the image used */
 	background-image: url("hartfordwater.jpg");
 	min-height: 500px;
+	max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */	
+
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
