@@ -1,8 +1,8 @@
 $(document).ready(function(e) {
 	$('.view:not(#welcome)').hide();
 	/*$('#welcome').show();	*/
-	
-	if (screen.width <= 699) {
+		
+	if ( screen.width <= 699 || (navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) ) {
 	/*mobile page */
 		document.location = "m.html";
 		$('.view:not(#welcome)').hide();
