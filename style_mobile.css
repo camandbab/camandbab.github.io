@@ -185,7 +185,7 @@ so that the content is unclickable while menu is shown
 /*	background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");*/
     background-image: url("bam2.png");
 	/* Set a specific height */
-	min-height: 250px;
+	min-height: 500px;
 	max-height: 100%;
 	max-width: 100%;
     height: auto;
