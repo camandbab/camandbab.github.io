@@ -180,17 +180,29 @@ so that the content is unclickable while menu is shown
   line-height:1.2;
 }
 
+.mainimg {
+  max-width: 75%;
+  max-height: 75%;
+  position: fixed;
+  top: 0px;
+  left: 12.5%;
+  z-index: 1;
+  margin-top: 100px;
+}
+
 .welcomeparallax {
 	/* The image used */
 /*	background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");*/
-    background-image: url("bam2.png");
+    /*background-image: url("bam2.png");*/
 	/* Set a specific height */
-	min-height: 500px;
-	max-height: 100%;
+	/*min-height: 500px;
+	/*max-height: 100%;
 	max-width: 100%;
     height: auto;
-    width: auto\9; /* ie8 */	
-
+    width: auto\9;*/ /* ie8 */	
+	height: 500px;
+	max-height: 100%;
+	width: 100%;
 	/* Create the parallax scrolling effect */
 	background-attachment: fixed;
 	background-position: 0px 80px;
@@ -204,6 +216,7 @@ so that the content is unclickable while menu is shown
   height: 400px;
   margin-top: 100px;
   text-decoration: none;
+  z-index: 2;
 }
 .tweet {
 	color: inherit;

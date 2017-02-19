@@ -1,6 +1,6 @@
-	 function set_body_height() { // set body height = window height
+/*	 function set_body_height() { // set body height = window height
 		$('#container').height($(window).height());
-	  }
+	  }*/
 
 
 $(document).ready(function(e) {  
@@ -14,8 +14,8 @@ $(document).ready(function(e) {
 	$('#' + viewName).show();
 	$(window).scrollTop(0);
   }
-    $(window).bind('resize', set_body_height);
-    set_body_height();
+/*    $(window).bind('resize', set_body_height);
+    set_body_height();*/
   $('[data-launch-view]').click(function (e) {
 	 e.preventDefault();
 	var viewName = $(this).attr('data-launch-view');
@@ -95,7 +95,9 @@ $( "#contentLayer" ).click(function() {
 });
 
 
-
-
-
-
+$(window).scroll(function(){
+    $(".pp").css("opacity", 1 - $(window).scrollTop() / 800);
+  });
+$(window).scroll(function(){
+    $(".welcomeparallax").css("opacity", 1 - $(window).scrollTop() / 800);  
+  });
