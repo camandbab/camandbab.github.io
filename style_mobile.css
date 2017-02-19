@@ -185,7 +185,7 @@ so that the content is unclickable while menu is shown
 /*	background-image: url("http://s12.postimg.org/aksaq4fb1/bam2.png");*/
     background-image: url("bam2.png");
 	/* Set a specific height */
-/*	min-height: 500px; */
+	min-height: 250px;
 	max-height: 25%;
 	max-width: 100%;
     height: auto;
@@ -195,7 +195,7 @@ so that the content is unclickable while menu is shown
 	background-attachment: fixed;
 	background-position: 0px 80px;
 	background-repeat: no-repeat;
-	background-size: cover;
+	/*background-size: cover;*/
 	margin-top: 100px;
 }
 
