@@ -99,5 +99,5 @@ $(window).scroll(function(){
     $(".pp").css("opacity", 1 - $(window).scrollTop() / 800);
   });
 $(window).scroll(function(){
-    $(".welcomeparallax").css("opacity", 1 - $(window).scrollTop() / 800);  
+    $(".mainimg").css("opacity", 1 - $(window).scrollTop() / 800);  
   });
