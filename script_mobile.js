@@ -96,8 +96,8 @@ $( "#contentLayer" ).click(function() {
 
 
 $(window).scroll(function(){
-    $(".pp").css("opacity", 1 - $(window).scrollTop() / 800);
+    $(".pp").css("opacity", 1 - $(window).scrollTop() / $( window ).height());
   });
 $(window).scroll(function(){
-    $(".mainimg").css("opacity", 1 - $(window).scrollTop() / 800);  
+    $(".mainimg").css("opacity", 1 - $(window).scrollTop() / $( window ).height());  
   });
