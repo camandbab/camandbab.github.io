@@ -181,8 +181,8 @@ so that the content is unclickable while menu is shown
 }
 
 .mainimg {
-  max-width: 75%;
-  max-height: 75%;
+  max-width: 95%;
+  max-height: 95%;
   position: fixed;
   top: 0px;
   left: 12.5%;
