@@ -1,3 +1,8 @@
+	 function set_body_height() { // set body height = window height
+		$('#container').height($(window).height());
+	  }
+
+
 $(document).ready(function(e) {  
 	$('.view:not(#welcome)').hide();
 /*	$( ".cross" ).hide();*/
@@ -9,6 +14,8 @@ $(document).ready(function(e) {
 	$('#' + viewName).show();
 	$(window).scrollTop(0);
   }
+    $(window).bind('resize', set_body_height);
+    set_body_height();
   $('[data-launch-view]').click(function (e) {
 	 e.preventDefault();
 	var viewName = $(this).attr('data-launch-view');
