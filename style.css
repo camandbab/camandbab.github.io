@@ -124,8 +124,8 @@ body {
 .welcome-text {
   background-color: white;
   height: 420px;
-  margin-top: 130px;
-
+  /* margin-top: 130px; */
+  margin-top: 20%;
 }
 
 
@@ -148,7 +148,8 @@ body {
 .ceremony-text {
   background-color: white;
   height: 450px;
-  margin-top: 110px;
+  /* margin-top: 110px; */
+  margin-top: 20%;
   text-align: center;
   }
 
@@ -204,7 +205,8 @@ body {
 .reception-text {
   background-color: white;
   height: 420px;
-  margin-top: 110px;
+  /* margin-top: 110px; */
+  margin-top: 20%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -213,7 +215,8 @@ body {
 .registry-text {
   background-color: white;
   height: 300px;
-  margin-top: 100px;
+  /* margin-top: 100px; */
+  margin-top: 20%;
   margin-bottom: 200px;
   text-align: center;
 }
@@ -222,7 +225,8 @@ body {
   background-color: white;
   height: 350px;
   margin-top: 50px;
-  margin-bottom: 170px;
+  /* margin-bottom: 170px; */
+  margin-top: 20%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -240,7 +244,7 @@ body {
 	margin-left: 0px;	
 	}
 .box {
-	border: 1px black;
+	border: 2px black;
 }
 .lodging-tbl {
 	text-decoration: none;
