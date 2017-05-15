@@ -6,7 +6,7 @@ body {
 }
 .burger {
 	position: absolute;
-	left: 5px;
+	left: 40px;
 }
 .dropbtn {
     width: 100%;
@@ -239,6 +239,9 @@ body {
 	margin-right: 42px;
 	margin-left: 0px;	
 	}
+.box {
+	border: 1px black;
+}
 .lodging-tbl {
 	text-decoration: none;
 	list-style-type: none;
