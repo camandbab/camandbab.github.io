@@ -321,6 +321,9 @@ so that the content is unclickable while menu is shown
 .box {
 	border: 2px solid black;
 }
+.box:hover {
+	background-color: gold;
+}
 .lodging-tbl {
 	text-decoration: none;
 	list-style-type: none;
