@@ -26,8 +26,8 @@ $(document).ready(function(e) {
 });
 
 $(window).scroll(function(){
-    $(".pp").css("opacity", 1 - $(window).scrollTop() / 800);
+    $(".pp").css("opacity", 1 - $(window).scrollTop() / 700);
   });
 $(window).scroll(function(){
-    $(".welcomeparallax").css("opacity", 1 - $(window).scrollTop() / 800);  
+    $(".welcomeparallax").css("opacity", 1 - $(window).scrollTop() / 700);  
   });
