@@ -179,7 +179,7 @@ body {
 	border-right: 60px solid white;
 	/* the image used */
 	background-image: url("butts.jpg");
-	min-height: 620px;
+	min-height: 10vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
