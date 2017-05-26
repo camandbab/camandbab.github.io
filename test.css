@@ -168,7 +168,7 @@ body {
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
-    min-width: 80vh;
+    min-width: 90vh;
     background-repeat: 	no-repeat;
     background-size: cover; 
 }
