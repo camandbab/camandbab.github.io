@@ -111,7 +111,7 @@ body {
     /* The image used */
     background-image: url("bam2.png");
     /* Set a specific height */
-	min-height: 75vim; 
+	min-height: 75vh; 
 	width: auto;
 	height: auto;
     /* Create the parallax scrolling effect */
