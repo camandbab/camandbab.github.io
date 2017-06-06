@@ -17,9 +17,9 @@ $(document).ready(function(e) {
 		$(window).scrollTop(0);
 	  }
 	  $('[data-launch-view]').click(function (e) {
-		 e.preventDefault();
 		var viewName = $(this).attr('data-launch-view');
 		showView(viewName);
+		e.preventDefault();
 	  });
 	}
 
