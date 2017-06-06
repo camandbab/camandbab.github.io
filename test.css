@@ -111,7 +111,7 @@ body {
     /* The image used */
     background-image: url("bam2.png");
     /* Set a specific height */
-    min-height: 100vh; 
+    min-height: 75vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -137,7 +137,7 @@ body {
 	border-right: 60px solid white;
 	background-image: url("church1.jpg");
     /* Set a specific height */
-    min-height: 90vh; 
+    min-height: 75vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -163,7 +163,7 @@ body {
 /*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
 	background-image: url("prattst2b.jpg");
     /* Set a specific height */
-    min-height: 100vh; 
+    min-height: 75vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -179,7 +179,7 @@ body {
 	border-right: 60px solid white;
 	/* the image used */
 	background-image: url("butts.jpg");
-	min-height: 100vh;
+	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
@@ -194,7 +194,7 @@ body {
 	border-right: 60px solid white;
 	/* the image used */
 	background-image: url("hartfordwater.jpg");
-	min-height: 100vh;
+	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
