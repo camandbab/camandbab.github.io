@@ -106,13 +106,14 @@ body {
 
 .welcomeparallax {
   border: 10px solid white;
-  border-left: 60px solid white;
-  border-right: 60px solid white;
+  border-left: 80px solid white;
+  border-right: 80px solid white;
     /* The image used */
     background-image: url("bam2.png");
     /* Set a specific height */
-    min-height: 100vh; 
-
+	min-height: 75vh; 
+	width: auto;
+	height: auto;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 100px;
@@ -124,10 +125,12 @@ body {
 .welcome-text {
   background-color: white;
   height: 420px;
-  margin-top: 130px;
+/*  margin-top: 130px;*/
   /* margin-top: 20%; */
+  margin-top: 1%;
+  margin-bottom: 10%;
+  bottom: -7%;
 }
-
 
 .ceremonyparallax {
 	border: 10px solid white;
@@ -135,7 +138,7 @@ body {
 	border-right: 60px solid white;
 	background-image: url("church1.jpg");
     /* Set a specific height */
-    min-height: 100vh; 
+    min-height: 75vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -161,7 +164,7 @@ body {
 /*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
 	background-image: url("prattst2b.jpg");
     /* Set a specific height */
-    min-height: 100vh; 
+    min-height: 75vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -177,7 +180,7 @@ body {
 	border-right: 60px solid white;
 	/* the image used */
 	background-image: url("butts.jpg");
-	min-height: 100vh;
+	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
@@ -192,14 +195,15 @@ body {
 	border-right: 60px solid white;
 	/* the image used */
 	background-image: url("hartfordwater.jpg");
-	min-height: 100vh;
+	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 0px 40px;
     min-width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-}
+
+	}
 
 .reception-text {
   background-color: white;
@@ -223,7 +227,7 @@ body {
 .accomodations-text {
   background-color: white;
   height: 350px;
-  margin-top: 50px;
+  margin-top: 20vh;
   margin-bottom: 170px;
   /* margin-top: 20%; */
   text-align: center;
