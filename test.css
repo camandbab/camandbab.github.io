@@ -109,7 +109,7 @@ body {
   border-left: 80px solid white;
   border-right: 80px solid white;
     /* The image used */
-    background-image: url("library5.png");
+    background-image: url("library4.png");
     /* Set a specific height */
 	min-height: 75vh; 
 	width: auto;
@@ -118,7 +118,7 @@ body {
     background-attachment: fixed;
     background-position: 0px 100px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 75vh;
 	margin-top: 80px;
 }
 
