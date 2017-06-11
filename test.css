@@ -109,7 +109,7 @@ body {
   border-left: 80px solid white;
   border-right: 80px solid white;
     /* The image used */
-    background-image: url("bam2.png");
+    background-image: url("library5.png");
     /* Set a specific height */
 	min-height: 75vh; 
 	width: auto;
@@ -152,7 +152,7 @@ body {
 .ceremony-text {
   background-color: white;
   height: 450px;
-  margin-top: 110px;
+  margin-top: 10vh;
   /* margin-top: 25%; */
   text-align: center;
   }
@@ -209,7 +209,7 @@ body {
 .reception-text {
   background-color: white;
   height: 420px;
-  margin-top: 110px;
+  margin-top: 10vh;
   /* margin-top: 25%; */
   text-align: center;
   margin-left: auto;
@@ -219,7 +219,7 @@ body {
 .registry-text {
   background-color: white;
   height: 300px;
-  margin-top: 100px;
+  margin-top: 10vh;
   /* margin-top: 25%; */
   margin-bottom: 200px;
   text-align: center;
