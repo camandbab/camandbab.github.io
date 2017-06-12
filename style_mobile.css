@@ -314,7 +314,14 @@ so that the content is unclickable while menu is shown
   text-align: center;
   }
 
-.registrytbl {
+.registry-text {
+  background-color: white;
+  height: 400px;
+  margin-top: 100px;
+  text-align: center;
+  }
+
+  .registrytbl {
 	text-decoration: none;	
 	list-style-type: none;
 	}
@@ -336,12 +343,12 @@ so that the content is unclickable while menu is shown
 }
 
 .lodging-border {
-	padding-bottom: 60px;
+	padding-bottom: 20px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
 	border-width: .2px;
 }
 
 .gap {
-	margin-top: 60px;
+	margin-top: 20px;
 }
