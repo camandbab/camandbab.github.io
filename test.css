@@ -109,7 +109,7 @@ body {
   border-left: 80px solid white;
   border-right: 80px solid white;
     /* The image used */
-    background-image: url("construction_withwhite.png");
+    background-image: url("construction_withwhite2.png");
     /* Set a specific height */
 	min-height: 75vh;
 	width: auto;
@@ -180,7 +180,7 @@ body {
 	border-left: 60px solid white;
 	border-right: 60px solid white;
 	/* the image used */
-	background-image: url("butts.jpg");
+	background-image: url("registry_withwhite.jpg");
 	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
