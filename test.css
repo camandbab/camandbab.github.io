@@ -180,7 +180,7 @@ body {
 	border-left: 60px solid white;
 	border-right: 60px solid white;
 	/* the image used */
-	background-image: url("registry_withwhite.jpg");
+	background-image: url("registry_withwhite.png");
 	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
