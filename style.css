@@ -105,20 +105,20 @@ body {
 }
 
 .welcomeparallax {
-  border: 10px solid white;
-  border-left: 80px solid white;
-  border-right: 80px solid white;
-    /* The image used */
-    background-image: url("bam2.png");
-    /* Set a specific height */
-	min-height: 75vh; 
+	border: 10px solid white;
+	border-left: 80px solid white;
+	border-right: 80px solid white;
+	/* The image used */
+	background-image: url("bam2_withwhite.png");
+	/* Set a specific height */
+	min-height: 75vh;
 	width: auto;
 	height: auto;
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: 0px 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: 0px 100px;
+	background-repeat: no-repeat;
+	background-size: cover;
 	margin-top: 80px;
 }
 
