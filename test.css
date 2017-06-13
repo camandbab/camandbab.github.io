@@ -105,11 +105,12 @@ body {
 }
 
 .welcomeparallax {
-  border: 10px solid white;
-  border-left: 80px solid white;
-  border-right: 80px solid white;
+	border: 10px solid white;
+	border-left: 80px solid white;
+	border-right: 80px solid white;
     /* The image used */
-    background-image: url("construction_white1200wide.png");
+	background-image: url("bam2_white1200wide.png");
+/*    background-image: url("construction_white1200wide.png");*/
     /* Set a specific height */
 	min-height: 75vh;
 	width: auto;
