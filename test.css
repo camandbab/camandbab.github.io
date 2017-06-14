@@ -238,6 +238,7 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  width: 650px;
 }
 
 .hotellinks {
@@ -249,7 +250,7 @@ body {
 	text-decoration: none;	
 	list-style-type: none;
 	margin-right: 42px;
-	margin-left: 0px;	
+	margin-left: 0px;
 	}
 
 .box {
@@ -260,7 +261,6 @@ body {
 	text-decoration: none;
 	list-style-type: none;
 	margin-right: 38px;
-
 }
 
 .lodging-tbl li:hover {
