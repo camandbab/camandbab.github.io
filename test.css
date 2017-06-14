@@ -128,9 +128,9 @@ body {
   height: 420px;
 /*  margin-top: 130px;*/
   /* margin-top: 20%; */
-  margin-top: 1vh;
+  margin-top: .5vh;
   margin-bottom: 12vh;
-  bottom: -7%;
+  bottom: -2%;
 }
 
 
@@ -154,7 +154,7 @@ body {
 .ceremony-text {
   background-color: white;
   height: 450px;
-  margin-top: 10vh;
+  margin-top: 5vh;
   margin-bottom: 10vh;
   /* margin-top: 25%; */
   text-align: center;
@@ -212,7 +212,7 @@ body {
 .reception-text {
   background-color: white;
   height: 420px;
-  margin-top: 10vh;
+  margin-top: 5vh;
   margin-bottom: 20vh;
   /* margin-top: 25%; */
   text-align: center;
@@ -223,7 +223,7 @@ body {
 .registry-text {
   background-color: white;
   height: 300px;
-  margin-top: 10vh;
+  margin-top: 5vh;
   /* margin-top: 25%; */
   margin-bottom: 20vh;
   text-align: center;
@@ -232,7 +232,7 @@ body {
 .accomodations-text {
   background-color: white;
   height: 350px;
-  margin-top: 10vh;
+  margin-top: 5vh;
   margin-bottom: 10vh;
   /* margin-top: 20%; */
   text-align: center;
