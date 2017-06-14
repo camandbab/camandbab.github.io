@@ -138,7 +138,8 @@ body {
 	border: 10px solid white;
 	border-left: 60px solid white;
 	border-right: 60px solid white;
-	background-image: url("ceremony_withwhite.png");
+	background-image: url("ceremony_white1200wide.png");
+	/* background-image: url("ceremony_withwhite.png"); */
     /* Set a specific height */
     min-height: 75vh; 
 
@@ -165,7 +166,7 @@ body {
 	border-right: 60px solid white;
     /* The image used */
 /*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
-	background-image: url("reception_withwhite.png");
+	background-image: url("reception_white1200wide.png");
     /* Set a specific height */
     min-height: 75vh; 
 
@@ -182,7 +183,7 @@ body {
 	border-left: 60px solid white;
 	border-right: 60px solid white;
 	/* the image used */
-	background-image: url("registry_withwhite.png");
+	background-image: url("registry_white1200wide.png");
 	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -197,7 +198,7 @@ body {
 	border-left: 60px solid white;
 	border-right: 60px solid white;
 	/* the image used */
-	background-image: url("lodging_withwhite.png");
+	background-image: url("lodging_white1200wide.png");
 	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
