@@ -138,7 +138,7 @@ body {
 	border: 10px solid white;
 	border-left: 60px solid white;
 	border-right: 60px solid white;
-	background-image: url("ceremony_white1200wide.png");
+	background-image: url("ceremonycrop_white1200wide.png");
 	/* background-image: url("ceremony_withwhite.png"); */
     /* Set a specific height */
     min-height: 75vh; 
