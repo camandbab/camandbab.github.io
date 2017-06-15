@@ -137,7 +137,8 @@ body {
 	border: 10px solid white;
 	border-left: 60px solid white;
 	border-right: 60px solid white;
-	background-image: url("church1.jpg");
+	background-image: url("ceremonycrop_white1200wide2.png");
+	/* background-image: url("ceremony_withwhite.png"); */
     /* Set a specific height */
     min-height: 75vh; 
 
@@ -152,7 +153,8 @@ body {
 .ceremony-text {
   background-color: white;
   height: 450px;
-  margin-top: 110px;
+  margin-top: 15vh;
+  margin-bottom: 10vh;
   /* margin-top: 25%; */
   text-align: center;
   }
@@ -163,7 +165,7 @@ body {
 	border-right: 60px solid white;
     /* The image used */
 /*    background-image: url("http://ctmonuments.net/wp-content/uploads/2011/05/Putnam-Bushnell-3.jpg");*/
-	background-image: url("prattst2b.jpg");
+	background-image: url("reception_white1200wide.png");
     /* Set a specific height */
     min-height: 75vh; 
 
@@ -180,7 +182,7 @@ body {
 	border-left: 60px solid white;
 	border-right: 60px solid white;
 	/* the image used */
-	background-image: url("registry_withwhite.png");
+	background-image: url("registry_white1200wide.png");
 	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -195,7 +197,7 @@ body {
 	border-left: 60px solid white;
 	border-right: 60px solid white;
 	/* the image used */
-	background-image: url("hartfordwater.jpg");
+	background-image: url("lodging_white1200wide.png");
 	min-height: 75vh;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -205,35 +207,37 @@ body {
     background-size: cover;
 
 	}
-
+	
 .reception-text {
   background-color: white;
   height: 420px;
-  margin-top: 110px;
+  margin-top: 5vh;
+  margin-bottom: 15vh;
   /* margin-top: 25%; */
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  }
+}
 
 .registry-text {
   background-color: white;
   height: 300px;
-  margin-top: 25vh;
+  margin-top: 5vh;
   /* margin-top: 25%; */
-  margin-bottom: 200px;
+  margin-bottom: 30vh;
   text-align: center;
 }
   
 .accomodations-text {
   background-color: white;
   height: 350px;
-  margin-top: 10vh;
+  margin-top: 5vh;
   margin-bottom: 10vh;
   /* margin-top: 20%; */
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  width: 650px;
 }
 
 .hotellinks {
