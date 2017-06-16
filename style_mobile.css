@@ -300,7 +300,7 @@ so that the content is unclickable while menu is shown
 .accomodations-text {
   background-color: white;
   height: 350px;
-  margin-top: 10vh;
+  margin-top: 12vh;
   margin-bottom: 500px;
   text-align: center;
   z-index: 2;
@@ -347,12 +347,12 @@ so that the content is unclickable while menu is shown
 }
 
 .lodging-border {
-	padding-bottom: 15px;
+	padding-bottom: 12px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
 	border-width: .2px;
 }
 
 .gap {
-	margin-top: 15px;
+	margin-top: 12px;
 }
