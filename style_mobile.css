@@ -180,6 +180,10 @@ so that the content is unclickable while menu is shown
   font-size: 200%;
   line-height:1.2;
 }
+.hfive {
+  font-size: 175%;
+  line-height:1.2;
+}
 
 .mainimg {
   max-width: 95%;
@@ -296,7 +300,7 @@ so that the content is unclickable while menu is shown
 .accomodations-text {
   background-color: white;
   height: 350px;
-  margin-top: 40px;
+  margin-top: 10vh;
   margin-bottom: 500px;
   text-align: center;
   z-index: 2;
