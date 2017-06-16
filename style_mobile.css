@@ -317,7 +317,7 @@ so that the content is unclickable while menu is shown
 .registry-text {
   background-color: white;
   height: 400px;
-  margin-top: 50vh;
+  margin-top: 25vh;
   text-align: center;
   }
 
@@ -343,12 +343,12 @@ so that the content is unclickable while menu is shown
 }
 
 .lodging-border {
-	padding-bottom: 20px;
+	padding-bottom: 15px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
 	border-width: .2px;
 }
 
 .gap {
-	margin-top: 20px;
+	margin-top: 15px;
 }
