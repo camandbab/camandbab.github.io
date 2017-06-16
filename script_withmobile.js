@@ -2,7 +2,7 @@ $(document).ready(function(e) {
 	$('.view:not(#welcome)').hide();
 	/*$('#welcome').show();	*/
 		
-	if ( screen.width <= 699 || (navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) ) {
+	if ( screen.width <= 699 || (navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad|Tablet|Mobile|Android|webOS|Blackberry/i)) ) {
 	/*mobile page */
 		document.location = "m.html";
 		$('.view:not(#welcome)').hide();

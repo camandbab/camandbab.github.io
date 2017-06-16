@@ -212,7 +212,7 @@ body {
   background-color: white;
   height: 420px;
   margin-top: 5vh;
-  margin-bottom: 15vh;
+  margin-bottom: 12vh;
   /* margin-top: 25%; */
   text-align: center;
   margin-left: auto;
@@ -222,9 +222,9 @@ body {
 .registry-text {
   background-color: white;
   height: 300px;
-  margin-top: 5vh;
+  margin-top: 3vh;
   /* margin-top: 25%; */
-  margin-bottom: 30vh;
+  margin-bottom: 28vh;
   text-align: center;
 }
   
@@ -268,12 +268,12 @@ body {
 }
 
 .lodging-border {
-	padding-bottom: 20px;
+	padding-bottom: 15px;
 	border-bottom-style: solid;
 	border-bottom-color: #333333;
 	border-width: .2px;
 }
 
 .gap {
-	margin-top: 20px;
+	margin-top: 15px;
 }
